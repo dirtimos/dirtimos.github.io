@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # On building the blog
 
 ## Setting the development Environment
