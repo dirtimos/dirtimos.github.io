@@ -1,5 +1,3 @@
-# Digital Veganism
-
 **Digital Veganism** is a movement of which the *Digital Vegan* book, written by [Dr. Andy Farnell](https://digitalvegan.net/) is part of.
 This post is not a book review. It is about the movement, and the principles and ideas shared by Andy.
 
