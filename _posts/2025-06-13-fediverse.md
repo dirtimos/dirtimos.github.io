@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 > The **Fediverse** (commonly shortened to **fedi**) is a collection of social networking services that can communicate with each other (formally known as federation) using a common protocol. Users of different websites can send and receive status updates, multimedia, files and other data across the network. The term _Fediverse_ is a portmanteau of _federation_ and _universe_.
 
 Thank you, [Wikipedia](https://en.wikipedia.org/wiki/Fediverse). I recommend these two videos bellow to know more about the Fediverse (they are short, I promise).
